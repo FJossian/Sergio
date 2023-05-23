@@ -23,8 +23,12 @@ body{
     100%{background-position:0% 50%}
 }
 
-.container{
+.login{
     color: #000000;
     padding-top: 310px;
     margin-left: 650px;
+}
+
+h1{
+    text-align: center;
 }

@@ -24,9 +24,15 @@ body{
 }
 
 .login{
+    text-align: center;
     color: #090909;
-    padding-top: 310px;
-    margin-left: 650px;
+    margin-top: 325px;
+    margin-left: 670px;
+    border: 2px solid black;
+    width: 200px;
+    color: #000000;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 h1{
